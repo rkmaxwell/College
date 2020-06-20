@@ -1,0 +1,2 @@
+rootProject.name='ICS College'
+include ':app'
